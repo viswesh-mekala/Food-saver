@@ -1,6 +1,6 @@
 # foodsaver
 
-A new Flutter project.
+A new Flutter project works on Android as well as ios.
 
 ## Getting Started
 
